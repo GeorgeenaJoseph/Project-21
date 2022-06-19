@@ -22,7 +22,7 @@ function setup() {
         isStatic:false,
         friction:0,
         restitution:0.8,
-        density:1.2
+        density:0.5
     }
 
 
